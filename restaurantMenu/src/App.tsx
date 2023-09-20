@@ -2,7 +2,8 @@ import "./App.css";
 import AboutUs from "./components/aboutUs/aboutUs";
 import Headers from "./components/header/header";
 import Navbar from "./components/navbar/navbar";
-function App() {
+
+function App(): any {
   return (
     <>
       <Headers />

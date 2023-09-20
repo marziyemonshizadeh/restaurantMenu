@@ -1,4 +1,4 @@
-const AboutUs = () => {
+const AboutUs: React.FC = () => {
   return (
     <div className="text-light">
       لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از

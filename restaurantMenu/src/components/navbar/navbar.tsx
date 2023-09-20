@@ -1,10 +1,10 @@
 import "./navbar.css";
-const Navbar = () => {
+const Navbar: React.FC = () => {
   return (
     <>
       <div className="navbar d-flex justify-content-center">
         <div className="p-2 border-bottom border-warning border-3">
-          اطلاعات تماس{" "}
+          اطلاعات تماس
         </div>
         <div className="p-2 border-bottom border-warning border-3">
           ساعات کاری
